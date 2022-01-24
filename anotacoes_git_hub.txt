@@ -38,4 +38,4 @@ I am not very comfortable with Git and GitHub, as you may have guessed by now, a
 
 Any idea?
 
-
+https://stackoverflow.com/questions/32238616/git-push-fatal-origin-does-not-appear-to-be-a-git-repository-fatal-could-n
